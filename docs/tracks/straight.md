@@ -1,6 +1,10 @@
+---
+title: Straight Family
+description: 
+
+---
+
 # STRAIGHT
-
-
 
 ## OVERVIEW
 
@@ -18,3 +22,7 @@ x20mm Straight Tracks can be very useful in combnination with certain buttons an
 ## APPLICATION NOTES
 
 Straight Tracks range in length from 20mm to 240mm. They can be used at any angle, and can be combined to make longer Straight Tracks. They are all provided with a dovetail key design so that they can be used to build high pressure Stacks (like in a Marble Pump)
+
+!!! note 
+
+	There is something noteworthy here!

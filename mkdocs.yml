@@ -1,5 +1,19 @@
 site_name: TrackStacker Documentation!
 nav:
+  - Home: 'index.md'
+  - 'Tracks!':
+    - 'TrackLibrary Home': 'tracks/tracks.md'
+    - 'Straight Family': 'tracks/straight.md'
+  - 'Fabrication!':
+    - 'Fabrication Guide': 'fabrication.md'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
 theme:
   name: material
   features:
@@ -11,6 +25,9 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+
+  font:
+    text: Overpass
 
   language: en
   palette:
@@ -27,8 +44,6 @@ theme:
       primary: orange
       accent: lime
       
-  markdown_extensions:
-  - admonition
 
 
 extra:
