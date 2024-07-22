@@ -6,6 +6,9 @@ description:
 
 # STRAIGHT
 
+<img src="/img/TRACKS/stx-s-family.jpg" style="display: block; margin: auto;">
+
+
 ## OVERVIEW
 
 The Straight family of Tracks are the basic building blocks of the Track Stacker ecosystem. They can be used to connect any two Tracks together, and are available in a variety of different lengths, grouped into two main families based on the base multiple of each available length. 

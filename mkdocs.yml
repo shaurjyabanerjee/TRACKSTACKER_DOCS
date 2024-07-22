@@ -4,6 +4,10 @@ nav:
   - 'Tracks!':
     - 'TrackLibrary Home': 'tracks/tracks.md'
     - 'Straight Family': 'tracks/straight.md'
+    - '<90 Family': 'tracks/90.md'
+    - '<60 Family': 'tracks/60.md'
+    - '<45 Family': 'tracks/45.md'
+    - '<30 Family': 'tracks/30.md'
   - 'Fabrication!':
     - 'Fabrication Guide': 'fabrication.md'
 
@@ -25,17 +29,17 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-
+    - header.autohide
+  logo: img/LOGOS/base_profile_red.png
   font:
     text: Overpass
-
   language: en
   palette:
     - scheme: dark
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
+      primary: orange
       accent: purple 
     - scheme: slate 
       toggle:
@@ -47,6 +51,7 @@ theme:
 
 
 extra:
+  homepage: https://trackstacker.net
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/xH38mFrtfa
