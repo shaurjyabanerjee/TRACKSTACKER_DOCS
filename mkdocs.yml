@@ -1,0 +1,46 @@
+site_name: TrackStacker Documentation!
+nav:
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+
+  language: en
+  palette:
+    - scheme: dark
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: orange
+      accent: lime
+      
+  markdown_extensions:
+  - admonition
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/xH38mFrtfa
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/shaurjyabanerjee/TRACKSTACKER
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/trackstacker_toys/?utm_source=ig_web_button_share_sheet
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@trackstacker?_t=8n8mwZbu79b&_r=1
+
+copyright: |
+  &copy; 2024 <a href="https://www.trackstacker.net/build"  target="_blank" rel="noopener">TrackStacker.net</a>
