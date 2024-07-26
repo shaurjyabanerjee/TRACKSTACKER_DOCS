@@ -18,6 +18,11 @@ nav:
     - 'Chaos Box': 'tracks/cb.md'
   - 'Fabrication!':
     - 'Fabrication Guide': 'fabrication.md'
+  - 'Design Guide!':
+    - 'Design Guide': 'design.md'
+  - 'Changelog':
+    - 'Changelog': 'changelog.md'
+
 
 markdown_extensions:
   - admonition
@@ -30,7 +35,10 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.expand
+    - navigation.path
     - toc.integrate
     - search.suggest
     - search.highlight

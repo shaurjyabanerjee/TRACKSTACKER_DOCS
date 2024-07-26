@@ -7,19 +7,18 @@ description:
 
 ---
 
-### **INTRODUCTION**
+## **Introduction -**
 
 Are you are interested in fabricating your own Track Stacker sets for yourself and your loved ones? If you have access to an FDM 3D printer, some basic hand tools and standard metric hardware, you too can be creating your own Track Stacker sets from the comfort of your home!
 
 A few Tracks call for the fabrication of acrylic cover plates and need a CNC laser cutter, though 3D printed cover plates have been tested to work nicely as well.
 
-
 ---
 
-### **INGREDIENTS**
+## **Ingredients -**
 
-There are five fundamental materials required in order to create your own TrackStacker Sets -
-	
+There are five fundamental materials required in order to create your own TrackStacker Sets - 
+
 - 10mm Glass Marbles
 - Neodymium Magnets ⌀6mm ↧2mm
 - Neodymium Magnets ⌀8mm ↧3mm
@@ -28,7 +27,7 @@ There are five fundamental materials required in order to create your own TrackS
 
 ---
 
-### **3D PRINTER SETTINGS**
+## **3D Print Settings -**
 
 In order to print your own TrackStacker Tracks successfully, your 3D printer will need to be capable of printing dimensionally accurate PLA parts, with a build volume of 200mm x 200mm x 150mm or greater. TrackStacker labs uses the BambuLabs X1C + AMS Combo for all in house Track Production, however just about 3D Printer from the last 10 years can be setup for fabricating Tracks.
 
@@ -50,7 +49,8 @@ If you have a machine capable of multi material printing, you can set up your sl
 
 ---
 
-### **3D PRINT FINISHING**
+## **3D Print Finishing -**
+
 After you have finished 3D printing your parts, it is now time for post processing your prints and getting them ready for magnetization! It is recommended to post process large batches of parts at the same time.
 
 The first step will be the removal of supports (if you used them) We recommend a small flat head screwdriver for prying supports off from the magnet pockets, keyway slots and any other features that may have required support. With good support settings, this should be very easy to do, all the supported features being shallow pockets with ease of access for removal.
@@ -61,10 +61,9 @@ If there is any elephants foot on the part, use a small flat file to file away t
 
 Take the time to make sure each part meets all the above criteria for accuracy and finish to ensure the most enjoyable playtime Stacking experience!
 
-
 ---
 
-### **SOURCING MAGNETS**
+## **Sourcing  -**
 
 There are two different sizes of neodymium magnets you will need to insert into your 3D printed parts to create finished Tracks. These two sizes of magnets are at the very heart of TrackStacker.
 
@@ -76,7 +75,7 @@ You can source small neodymium fridge magnets in these sizes from online stores 
 
 ---
 
-### **SETTING MAGNETS**
+## **Setting Magnets -**
 
 You will need some tools to properly set your magnets. A dead blow hammer, a flat stable and solid work surface about 200mm x 200mm and a set of small pin punches will make the process of setting magnets much easier. This approach is usually fine for setting small quantities of magnets, but you may want to invest in a Vice or Arbor Press based setting system if you intend to fabricate LARGE quantities of Tracks.
 
@@ -84,19 +83,35 @@ Track Stacker is designed to use a tight friction fit for the magnets such that 
 
 ---
 
-### **POLARITY**
+## **Magnet Polarity -**
 
-Setting your magnets with the correct polarity is essential for your finished Tracks to pass the final Function Test with flying colors. Since magnet polarity is invisible, you will need a compass or Source of Truth tool to make sure the polarity of your Track Stacker set matches the polarity of other sets around the world. To make this process easy you can directly purchase a Source of Truth tool from the store, but if you are unable to purchase one, the procedure for determining and setting magnetic polarity yourself is described below 
+Setting your magnets with the correct polarity is essential for your finished Tracks to pass the final Function Test with flying colors. Since magnet polarity is invisible, you will need a compass or Source of Truth tool to make sure the polarity of your Track Stacker set matches the polarity of other sets around the world. To make this process easy you can directly purchase a Source of Truth tool from the store, but if you are unable to purchase one, the procedure for determining and setting magnetic polarity yourself is described below.
+
+There are broadly 4 different types of magnetization operations that you will need to carry out in order to fabricate your own Tracks. The general procedure for each is described below -
+
+- ### **Con Magnet Polarization -**
+
+	Con Magnet polarization refers to the polarization of the ⌀6mm ↧2mm magnets on the mating face of each Track. These must always be polarized with the North face on the left and the South face on the right as shown in the image below.
+
+- ### **Board Magnet Polarization -**
+
+	Board Magnet polarization refers to the polartization of the ⌀8mm ↧3mm magnets on the bottom (play surface) side of each Track. Board magents should always be polarized with the South face out as shown in the image below. This ensures that Tracks function correctly with Z Supports and in Tracks that use Magnetic Detents or Springs. 
+
+
+- ### **Z Support Polarization -**
+
+	Z Supports should always be polarized such that the wider square face of the support has the North face out, and the narrower round face has the South face out as shown in the image below.
+
+
+- ### **Magnetic Spring Polarization -**
+
+
+- ### **Magnetic Detent Polarization -**
+
 
 ---
 
-### **SOURCING MAGNETS**
-
-
-
----
-
-### **SOURCING MAGNETS**
+## **SOURCING MAGNETS**
 
 
 ---
