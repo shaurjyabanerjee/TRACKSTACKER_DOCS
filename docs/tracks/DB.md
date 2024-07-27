@@ -4,24 +4,14 @@ description:
 
 ---
 
-# **<90 Family**
+# **Double Button**
 
 <img src="/img/TRACKS/stx-90-family.jpg" style="display: block; margin: auto;">
 
 
 ## OVERVIEW
 
-The <90 family of Tracks can be used to create a 90 degree bend in a Track. They are currently available in 3 different sizes - [<90⌀1], [<90⌀2] and [<90⌀3]. 
-
-The sizes have been designed such that if you combine two Right tracks to form a closed loop, they generate polygons with a diameter whose inter-track spacing is 1, 2 and 3 units respectively. 
-
-This is the same standard of diameter that all other polygonal Tracks are also designed to. 
+The Double Button can be used to simeltanously launch two marbles in adjacent Tracks to create Marble Races and Marble Runs!
 
 ## APPLICATION NOTES
 
-
-Two <90 Tracks can also be combined to create an S shaped redirect as shown below. Multiple S Redirects can be combined to create a wiggle shape. This shape can be expanded to any aspect ratio by interspersing Straight Tracks of desired lengths.
-
-!!! note 
-
-	There is something noteworthy here!
