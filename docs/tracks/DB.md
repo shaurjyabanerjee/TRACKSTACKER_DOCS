@@ -6,7 +6,7 @@ description:
 
 # **Double Button**
 
-<img src="/img/TRACKS/stx-90-family.jpg" style="display: block; margin: auto;">
+<img src="/img/TRACKS/stx-DB2.jpg" style="display: block; margin: auto;">
 
 
 ## OVERVIEW
