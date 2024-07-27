@@ -7,7 +7,7 @@ description:
 
 ---
 
-# ***UPDATE 2.2.3 - 7/25/2024***
+# ***UPDATE 2.2.3 - 7/27/2024***
 
 ## STANDARDS UPDATES -
 
@@ -25,7 +25,7 @@ description:
     - [R3] ↔ 60 is now known as [<90-D3]
     - [R4] ↔ 90 is now known as [<90-D4]
     - [TE] ↔ * is now known as [<60-D2]
-    - [TRD] ↔ * is now known as []
+    - [TRD] ↔ * is now known as [J60-D2]
 
     
 ## NEW TRACKS RELEASED -
@@ -34,7 +34,6 @@ description:
 
 - **[<30-D2]** - tessellates to form a regular Dodecagon!
 - **[<45-D2]** - tessellates to form a regular Octagon!
-- **[HXD]** - 6 way regular junction
 
 ***Newly launched Straight Tracks (all featuring the new dovetail key!) -***
 
