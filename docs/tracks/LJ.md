@@ -31,15 +31,15 @@ It is currently available in one size - [LJ1], but more lengths are coming soon!
 
 LoveJoys are a highly modular and reconfigurable Track, which can be set up in a number of ways to achieve various different functions -
 
-- ### **Variable Length Straight -**
+- ### **Variable Length Straight**
 
 	LoveJoy can be compressed and extended to any length between its two length limits. You can adjust the length simply by sliding the two halves of LoveJoy to the desired length, and inserting it into your Stack.
 
-- ### **Creating Curves -**
+- ### **Creating Curves**
 
 	When close to the limit of its extended configuration, LoveJoy provides a small amount of angular deviation. A large number of LoveJoys can be combined sequentially to approximate segmented curves using this technique.    
 
-- ### **Splitting LoveJoys -**
+- ### **Splitting LoveJoys**
 	
 	A LoveJoy can also be split completely into its two halves and each half can be used independently as a skeleton Straight Track if you need a little more length. This can be done simply by splitting the two halves of the Track and placing them back-to-back or mixing them with conventional Straight Tracks on either side.     
 
