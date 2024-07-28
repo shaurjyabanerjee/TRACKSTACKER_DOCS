@@ -11,15 +11,15 @@ description:
 
 ## OVERVIEW
 
-The Straight family of Tracks are the basic building blocks of the Track Stacker ecosystem. They can be used to connect any two Tracks together, and are available in a variety of different lengths, grouped into two main families based on the base multiple of each available length. 
+The Straight family of Tracks are the basic building blocks of the TrackStacker ecosystem. They can be used to connect any two Tracks together, and are available in a variety of different lengths, grouped into two main families based on the base multiple of each available length. 
 
-### **x30mm multiples** - [S30], [S60], [S120], [S240]
+### **x30mm multiples** - [S30], [S60], [S120], [S120]
 
-In general, it is reccomended to Stack with x30mm Straight Tracks, as they are all exact multiples of Inter Track Spacing, they tend to work well with dense, angular Stacks
+In general, it is recommended to Stack with x30mm Straight Tracks, as they are all exact multiples of Inter Track Spacing, they tend to work well with dense, angular Stacks
 
-### **x20mm multiples** - [S20], [S40], [S80], [S160], [S200]
+### **x20mm multiples** - [S20], [S40], [S80], [S60], [S200]
 
-x20mm Straight Tracks can be very useful in combnination with certain buttons and gates that have a length of 40mm. 
+x20mm Straight Tracks can be very useful in combination with certain buttons and gates that have a length of 40mm. 
 
 
 ## APPLICATION NOTES

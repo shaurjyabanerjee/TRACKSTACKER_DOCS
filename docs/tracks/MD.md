@@ -1,27 +1,29 @@
 ---
-title: <90 Family
+title: Merge/Diverge
 description: 
 
 ---
 
-# **<90 Family**
+# **Merge/Diverge**
 
-<img src="/img/TRACKS/stx-90-family.jpg" style="display: block; margin: auto;">
-
-
-## OVERVIEW
-
-The <90 family of Tracks can be used to create a 90 degree bend in a Track. They are currently available in 3 different sizes - [<90⌀1], [<90⌀2] and [<90⌀3]. 
-
-The sizes have been designed such that if you combine two Right tracks to form a closed loop, they generate polygons with a diameter whose inter-track spacing is 1, 2 and 3 units respectively. 
-
-This is the same standard of diameter that all other polygonal Tracks are also designed to. 
-
-## APPLICATION NOTES
-
-
-Two <90 Tracks can also be combined to create an S shaped redirect as shown below. Multiple S Redirects can be combined to create a wiggle shape. This shape can be expanded to any aspect ratio by interspersing Straight Tracks of desired lengths.
+<img src="/img/TRACKS/stx-md1.jpg" style="display: block; margin: auto;">
 
 !!! note 
 
-	There is something noteworthy here!
+	[MD1] is shown in the Diverge mode in the image above
+
+## **Overview**
+
+The Merge/Diverge family of Tracks is designed to provide a simple inline Merge or Diverge for marbles on adjacent SubStacks. Merge/Diverge is currently only available in one size - [MD1], which has an Inter-Track Spacing of 1 unit. 
+
+Merge/Diverge can be switched from Merge mode to Diverge mode simply by flipping the Track upside down!
+
+[MD2], [MD3] and [MD4] are coming soon, with Inter Track Spacing's of 2, 3 and 4 units respectively!
+
+---
+
+## **Application Notes**
+
+Merge/Diverge when used in Diverge mode is an easy way to add some randomness to your Stacks, by creating two-way junctions that marbles can 'choose' which way to go!
+
+When used in a perfectly vertical orientation, [MD] acts as a 50/50 biased Diverge, but the ratio of probability can be biased one way or another by tilting the Track slightly in either direction. You can use a bubble level to set the Track perfectly level if you need a perfectly even randomness distribution for your Stack.

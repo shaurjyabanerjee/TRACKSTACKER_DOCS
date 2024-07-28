@@ -1,27 +1,27 @@
 ---
-title: <90 Family
+title: Inline Valve
 description: 
 
 ---
 
-# **<90 Family**
+# **Inline Valve**
 
-<img src="/img/TRACKS/stx-90-family.jpg" style="display: block; margin: auto;">
-
-
-## OVERVIEW
-
-The <90 family of Tracks can be used to create a 90 degree bend in a Track. They are currently available in 3 different sizes - [<90⌀1], [<90⌀2] and [<90⌀3]. 
-
-The sizes have been designed such that if you combine two Right tracks to form a closed loop, they generate polygons with a diameter whose inter-track spacing is 1, 2 and 3 units respectively. 
-
-This is the same standard of diameter that all other polygonal Tracks are also designed to. 
-
-## APPLICATION NOTES
+<img src="/img/TRACKS/stx-IVM.jpg" style="display: block; margin: auto;">
 
 
-Two <90 Tracks can also be combined to create an S shaped redirect as shown below. Multiple S Redirects can be combined to create a wiggle shape. This shape can be expanded to any aspect ratio by interspersing Straight Tracks of desired lengths.
+## **Overview**
 
-!!! note 
+The Inline Valve is a compact, momentary valve that can be used to launch an entire stack of marbles all at once simply with the push push of a button! This makes it easy to dump a **huge number** of marbles into a Stack instantaneously!
 
-	There is something noteworthy here!
+---
+
+## **Application Notes**
+
+
+---
+
+## **Operational Principle**
+
+The Inline Valves use a magnetic spring in order to create the spring force needed to reset the Track. A magnetic spring uses the force of repulsion between two magnets to create the necessary spring force. The 'strength' or 'snappiness' of the spring can be controlled by altering the number and size of the magnets in the repulsive pairs. 
+
+---

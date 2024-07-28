@@ -11,8 +11,9 @@ nav:
     - 'J60': 'tracks/J60.md'
     - 'J90': 'tracks/J90.md'
     - 'Merge/Diverge': 'tracks/MD.md'
-    - 'Inline Buttons': 'tracks/IB.md'
+    - 'LoveJoy': 'tracks/LJ.md'
     - '2 to 1': 'tracks/2T1.md'
+    - 'Inline Buttons': 'tracks/IB.md'
     - 'Double Button': 'tracks/DB.md'
     - 'Inline Valve': 'tracks/IVM.md'
   - 'Fabrication!':

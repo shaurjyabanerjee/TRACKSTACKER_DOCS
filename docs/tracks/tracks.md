@@ -5,7 +5,7 @@ description:
 ---
 # **TrackLibrary Homepage** 
 
-The TrackLibrary is your Hitchhiker's Guide to the TrackStacker Galaxy! It has been designed to function half as a user manual and half as a recipie book. The TrackLibrary is a living document that is constantly being updated and expanded as new Tracks are added, and with time each page in the TrackLibrary will be updated and become more detailed - so be sure to check back often to see what's new! 
+The TrackLibrary is your Hitchhiker's Guide to the TrackStacker Galaxy! It has been designed to function half as a user manual and half as a recipe book. The TrackLibrary is a living document that is constantly being updated and expanded as new Tracks are added, and with time each page in the TrackLibrary will be updated and become more detailed - so be sure to check back often to see what's new! 
 
 ---
 

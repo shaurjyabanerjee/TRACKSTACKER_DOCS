@@ -1,27 +1,34 @@
 ---
-title: <90 Family
+title: Inline Button 
 description: 
 
 ---
 
-# **<90 Family**
+# **Inline Button Family**
 
-<img src="/img/TRACKS/stx-90-family.jpg" style="display: block; margin: auto;">
-
-
-## OVERVIEW
-
-The <90 family of Tracks can be used to create a 90 degree bend in a Track. They are currently available in 3 different sizes - [<90⌀1], [<90⌀2] and [<90⌀3]. 
-
-The sizes have been designed such that if you combine two Right tracks to form a closed loop, they generate polygons with a diameter whose inter-track spacing is 1, 2 and 3 units respectively. 
-
-This is the same standard of diameter that all other polygonal Tracks are also designed to. 
-
-## APPLICATION NOTES
+<img src="/img/TRACKS/stx-IB-family.jpg" style="display: block; margin: auto;">
 
 
-Two <90 Tracks can also be combined to create an S shaped redirect as shown below. Multiple S Redirects can be combined to create a wiggle shape. This shape can be expanded to any aspect ratio by interspersing Straight Tracks of desired lengths.
+## **Overview**
 
-!!! note 
+The Inline Button Family of buttons can be used for launching a specific number of marbles into a Stack, simply at the push of a button! It is currently available in two sizes - [IB2] and [IB4]
 
-	There is something noteworthy here!
+- [IB2] launches two marbles with each button press
+- [IB4] launches four marbles with each button press 
+
+---
+
+## **Application Notes**
+
+Inline Buttons can be used to quickly and easily add interactivity to any Stack! Using a funnel and some Straight Tracks into the inlet of an Inline Button keeps the button primed and ready to launch!
+
+- If you setup the Inline Button with the arrow pointing **downwards**, the Track will release marbles when **the button is pressed.**
+
+
+- On the other hand, if you setup the Inline Button with the arrow pointing **upwards**, the Track will release marbles when **the button is released.**
+
+---
+
+## **Operational Principle**
+
+The Inline Buttons use a magnetic spring in order to create the spring force needed to reset the Track. A magnetic spring uses the force of repulsion between two magnets to create the necessary spring force. The 'strength' or 'snappiness' of the spring can be controlled by altering the number and size of the magnets in the repulsive pairs. 

@@ -14,7 +14,7 @@ If you would like to fabricate your own Tracks, you can download the latest vers
 
 If you've never used GitHub before, simply find and click the green “<>Code” button, and then select “Download ZIP” from the drop down menu. Wait for the file to download, then unzip and start fabricating!
 
-You can then use [The Fabrication Guide](/fabrication) to learn how to setup and tune your 3D printer and properly set magnets to compelete your Tracks! TrackStacker is an excellent first functional 3D printing project to build familiarity and experience with 3D printing!
+You can then use [The Fabrication Guide](/fabrication) to learn how to setup and tune your 3D printer and properly set magnets to complete your Tracks! TrackStacker is an excellent first functional 3D printing project to build familiarity and experience with 3D printing!
 
 ---
 
