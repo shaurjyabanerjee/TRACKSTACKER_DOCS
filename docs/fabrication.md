@@ -1,33 +1,47 @@
 ---
-title: Fabrication
+title: Fabrication Guide
 description: 
 
 ---
-# **TRACK FABRICATION GUIDE**
+# **The Fabrication Guide**
 
 ---
 
-## **Introduction -**
+## **Introduction**
 
-Are you are interested in fabricating your own Track Stacker sets for yourself and your loved ones? If you have access to an FDM 3D printer, some basic hand tools and standard metric hardware, you too can be creating your own Track Stacker sets from the comfort of your home!
+Are you are interested in fabricating your own TrackStacker sets for yourself and your loved ones? If you have access to an FDM 3D printer, some basic hand tools and standard metric hardware, you too can be creating your own Track Stacker sets from the comfort of your home!
 
 A few Tracks call for the fabrication of acrylic cover plates and need a CNC laser cutter, though 3D printed cover plates have been tested to work nicely as well.
 
 ---
 
-## **Ingredients -**
+## **Ingredients**
 
 There are five fundamental materials required in order to create your own TrackStacker Sets - 
 
-- 10mm Glass Marbles
-- Neodymium Magnets ⌀6mm ↧2mm
-- Neodymium Magnets ⌀8mm ↧3mm
-- PLA Filament 
-- M2 x 4mm Socket Head Cap Screws 
+- ### **10mm Glass Marbles**
+
+	Any glass marbles 10mm in diameter will function well in TrackStacker. Be cautious of marbles that are too far over or under the nominal dimension of 10mm. 9.5mm - 10.5mm marbles have been tested to work well in all Tracks. We have found Jan’s Jewellery Supply to be a reliable supplier for 10mm marbles in a variety of colors and finishes. 
+
+- ### **⌀6mm ↧2mm Magnets**
+
+	6mm diameter x 2mm depth Neodymium Magnets are also known as Con Magnets in the TrackStacker ecosystem and are typically responsible for attaching Tracks to each other. You can source fridge magnets of this diameter from online suppliers like Amazon.
+
+- ### **⌀8mm ↧3mm Magnets**
+
+	8mm diameter x 3mm depth Neodymium Magnets are also known as Board Magnets in the TrackStacker ecosystem and are typically responsible for attaching Tracks to the Play Surface. You can source fridge magnets of this diameter from online suppliers like Amazon.
+
+
+- ### **PLA Filament** 
+
+	TrackStacker Labs recommends fabricating your own Tracks using PLA, but other filaments like PETG, ABS, ASA, PC and PA6 can be substituted if making outdoor grade Tracks.  TrackStacker Labs uses BambuLab PLA Matte for all in house Track production.
+
+- ### **M2 Socket Head Cap Screws** 
+
 
 ---
 
-## **3D Print Settings -**
+## **3D Print Settings**
 
 In order to print your own TrackStacker Tracks successfully, your 3D printer will need to be capable of printing dimensionally accurate PLA parts, with a build volume of 200mm x 200mm x 150mm or greater. TrackStacker labs uses the BambuLabs X1C + AMS Combo for all in house Track Production, however just about 3D Printer from the last 10 years can be setup for fabricating Tracks.
 
@@ -49,7 +63,7 @@ If you have a machine capable of multi material printing, you can set up your sl
 
 ---
 
-## **3D Print Finishing -**
+## **3D Print Finishing**
 
 After you have finished 3D printing your parts, it is now time for post processing your prints and getting them ready for magnetization! It is recommended to post process large batches of parts at the same time.
 
@@ -63,19 +77,20 @@ Take the time to make sure each part meets all the above criteria for accuracy a
 
 ---
 
-## **Sourcing  -**
+## **Magnets**
+
+### **Sourcing Magnets**
 
 There are two different sizes of neodymium magnets you will need to insert into your 3D printed parts to create finished Tracks. These two sizes of magnets are at the very heart of TrackStacker.
 
 - Neodymium Magnets ⌀8mm ↧3mm - Also known as Board Magnets, these are typically responsible for attaching each Track to the Play Surface.
 - Neodymium Magnets ⌀6mm ↧2mm - Also known as Con Magnets, these are typically responsible for attaching Tracks to each other.
 
-You can source small neodymium fridge magnets in these sizes from online stores in most countries. Beware of ceramic or ferrite magnets, though much cheaper than neodymium they are too brittle and magnetically weak to function properly in TrackStacker.
+You can source small neodymium fridge magnets in these sizes from online stores in most countries. 
 
+Beware of ceramic or ferrite magnets, though much cheaper than neodymium they are too brittle and magnetically weak to function properly in TrackStacker.
 
----
-
-## **Setting Magnets -**
+### **Setting Magnets**
 
 You will need some tools to properly set your magnets. A dead blow hammer, a flat stable and solid work surface about 200mm x 200mm and a set of small pin punches will make the process of setting magnets much easier. This approach is usually fine for setting small quantities of magnets, but you may want to invest in a Vice or Arbor Press based setting system if you intend to fabricate LARGE quantities of Tracks.
 
@@ -83,40 +98,78 @@ Track Stacker is designed to use a tight friction fit for the magnets such that 
 
 ---
 
-## **Magnet Polarity -**
+## **Magnet Polarity**
 
 Setting your magnets with the correct polarity is essential for your finished Tracks to pass the final Function Test with flying colors. Since magnet polarity is invisible, you will need a compass or Source of Truth tool to make sure the polarity of your Track Stacker set matches the polarity of other sets around the world. To make this process easy you can directly purchase a Source of Truth tool from the store, but if you are unable to purchase one, the procedure for determining and setting magnetic polarity yourself is described below.
 
 There are broadly 4 different types of magnetization operations that you will need to carry out in order to fabricate your own Tracks. The general procedure for each is described below -
 
-- ### **Con Magnet Polarization -**
+- ### **Con Magnet Polarization**
 
 	Con Magnet polarization refers to the polarization of the ⌀6mm ↧2mm magnets on the mating face of each Track. These must always be polarized with the North face on the left and the South face on the right as shown in the image below.
 
-- ### **Board Magnet Polarization -**
+- ### **Board Magnet Polarization**
 
-	Board Magnet polarization refers to the polartization of the ⌀8mm ↧3mm magnets on the bottom (play surface) side of each Track. Board magents should always be polarized with the South face out as shown in the image below. This ensures that Tracks function correctly with Z Supports and in Tracks that use Magnetic Detents or Springs. 
+	Board Magnet polarization refers to the polarization of the ⌀8mm ↧3mm magnets on the bottom (play surface) side of each Track. Board magnets should always be polarized with the South face out as shown in the image below. This ensures that Tracks function correctly with Z Supports and in Tracks that use Magnetic Detents or Springs. 
 
 
-- ### **Z Support Polarization -**
+- ### **Z Support Polarization**
 
 	Z Supports should always be polarized such that the wider square face of the support has the North face out, and the narrower round face has the South face out as shown in the image below.
 
 
-- ### **Magnetic Spring Polarization -**
+- ### **Magnetic Spring Polarization**
 
 
-- ### **Magnetic Detent Polarization -**
+- ### **Magnetic Detent Polarization**
+
+---
+
+## **Track Tooling**
 
 
 ---
 
-## **SOURCING MAGNETS**
+## **Cover Plates**
 
+Some Tracks require the fabrication of a cover plate to capture the junction between 3 or more channels within a Track. Examples of this include [MD1], [J60], [CB], etc. 
+
+Cover Plates should ideally be clear or translucent so that you can see the movement of marbles within the Track. There are two ways to fabricate these cover plates depending on the digital fabrication tools you have available at your disposal -
+
+- ### **CNC Laser Cut Cover Plates**
+
+	A CNC Laser Cutter is the ideal way to fabricate your own cover plates. We recommend clear or translucent acrylic in a nominal thickness of 1-2mm for the fabrication of all cover plates unless otherwise specified. All Tracks that require cover plates have an included .DXF file for laser cutting. 
+
+	!!! note 
+
+		All TrackStacker .DXF files are exported in mm units 
+
+	TrackStacker Labs uses iridescent acrylic in a 1mm nominal thickness for all in-house Track production.
+
+- ### **3D Printed Cover Plates**
+	
+	If you do not have access to a CNC Laser Cutter, you can easily print your cover plates in clear PLA or PETG using the included cover plate .stls. Though not optically clear like laser cut cover plates, printed cover plates can provide a nice diffused translucent look to Tracks.
+
+	<img src="/img/FAB_IMAGES/stx_print_cover1.jpg" style="width: 60vw; min-width: 100px;display: block; margin: auto;">
+
+	*Printed cover plates on [CB], [<60] and [MD1] (user submitted by Akuna)*
+
+	You can also use different shades of translucent PETG to create tinted cover plates as demonstrated in the image below. 
+
+	<img src="/img/FAB_IMAGES/stx_print_cover2.jpg" style="width: 60vw; min-width: 100px;display: block; margin: auto;">
+
+	*Blue, Amber and Clear PETG cover plates from left to right (user submitted by Akuna)*
 
 ---
 
+## **M2 Hardware**
 
-Download the latest version of the TrackStacker Track Library on [GitHub](https://github.com/shaurjyabanerjee/TRACKSTACKER)
+Some Tracks use standard M2 metric hardware as a fastener for joining cover plates to Tracks like in [MD1] or [<60-D2], and for joining parts within multi-part Tracks like [2T1], [IB2], [DB2] etc.
+
+Typically, all Tracks are designed to use M2 x 4mm Socket Head Cap Screws, but there are some exceptions where longer or shorter screws or different head styles may be specified for a particular Track. 
+
+In general it is recommended to keep a variety pack of M2 hardware around if you plan on fabricating a lot of Tracks or plan on designing your own!
+
+TrackStacker Labs uses stainless steel Socket Head Cap Screws for all in-house Track production.
 
 ---
