@@ -127,6 +127,34 @@ There are broadly 4 different types of magnetization operations that you will ne
 
 ## **Track Tooling**
 
+Tooling files are provided to make pressing magnets into your Tracks easier. Here at TrackStacker Labs we use a modular press system for the magnetization of all Tracks. The Press uses a 15mm x 15mm matrix of M3 holes to attach Tooling to the Press Plate or Base plate as shown in the image below. 
+
+You can create a similar setup using a vice or arbor press to generate the pressure needed if you would like to magnetize a large number of Tracks. The tooling files are provided as-is, but can be readily adapted to any pressure generating device with the use of a 15mm x 15mm matrix plate as an interface. 
+
+!!! note 
+	M3 heat-set inserts are recommended for your matrix plate so threads don't strip with repeated use!
+
+There are several different models of tooling that are needed for the various different magnetization operations on particular Tracks. Sometimes different Tooling needs to be paired up to complete a particular magnetization operation. The general use cases of each are described below -
+
+- ### **Single Con Press**
+
+	The Single Con Press is the most commonly used Press Tool for Track Stacker magnetization. It can be used by itself to magnetize the Con Faces (⌀6mm ↧2mm magnets) of the following Tracks -
+
+	- All Straight Tracks
+	- The single side of [MD1]
+	- The single side of [2T1] 
+	- All single buttons and valves - [IB2], [IB4], [IVM]
+	- LoveJoy
+
+
+- ### **Dual Con Press**
+
+	The Dual Con Press tool is used for magnetizing the Con Faces of Tracks that have dual, triple or quadruple Track inlets or outlets. It can be used by itself to magnetize the Con Faces of the following Tracks -
+
+	- The double side of [MD1]
+	- The double side of [2T1]
+	- [DB2]
+	- [CB]
 
 ---
 
