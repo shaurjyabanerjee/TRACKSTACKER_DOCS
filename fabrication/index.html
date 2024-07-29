@@ -854,20 +854,86 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#3d-print-settings" class="md-nav__link">
+  <a href="#3d-printing" class="md-nav__link">
     <span class="md-ellipsis">
-      3D Print Settings
+      3D Printing!
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3D Printing!">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#slicer-settings" class="md-nav__link">
+    <span class="md-ellipsis">
+      Slicer Settings
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#3d-print-finishing" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#multi-color-printing" class="md-nav__link">
     <span class="md-ellipsis">
-      3D Print Finishing
+      Multi Color Printing
     </span>
   </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#print-post-processing" class="md-nav__link">
+    <span class="md-ellipsis">
+      Print Post Processing
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#common-print-defects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Common Print Defects
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Common Print Defects">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#warping" class="md-nav__link">
+    <span class="md-ellipsis">
+      Warping
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stringing" class="md-nav__link">
+    <span class="md-ellipsis">
+      Stringing
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#elephants-foot" class="md-nav__link">
+    <span class="md-ellipsis">
+      Elephant's Foot
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1240,7 +1306,8 @@
 </li>
 </ul>
 <hr />
-<h2 id="3d-print-settings"><strong>3D Print Settings</strong></h2>
+<h2 id="3d-printing"><strong>3D Printing!</strong></h2>
+<h3 id="slicer-settings"><strong>Slicer Settings</strong></h3>
 <p>In order to print your own TrackStacker Tracks successfully, your 3D printer will need to be capable of printing dimensionally accurate PLA parts, with a build volume of 200mm x 200mm x 150mm or greater. TrackStacker labs uses the BambuLabs X1C + AMS Combo for all in house Track Production, however just about 3D Printer from the last 10 years can be setup for fabricating Tracks.</p>
 <p>No matter what printer you decide to use, reliably achieving dimensional accuracy is critical for Track production. Even small inaccuracies in dimension can make the fitment of magnets and marbles frustrating, and lead to magnets not staying in their pockets and marbles jamming in their tracks.</p>
 <p>Before you start production on your own set, make sure to also take the time to tune your other 3D printer settings including support settings, elephant’s foot compensation and the alignment of blobs from Z seams.</p>
@@ -1253,14 +1320,48 @@
 <li>Supports : Standard</li>
 <li>Adhesion : Brims </li>
 </ul>
-<p>If you have a machine capable of multi material printing, you can set up your slicer to print the name and length codes in a second highlight color, adding both functionality and flair. All of the .STL files provided are multi body with the first layer text separated out to ease multi material printing.</p>
 <hr />
-<h2 id="3d-print-finishing"><strong>3D Print Finishing</strong></h2>
+<h3 id="multi-color-printing"><strong>Multi Color Printing</strong></h3>
+<p>If you have a machine capable of multi material printing, you can set up your slicer to print the name and length codes in a second highlight color, adding both functionality and flair. All of the .STL files provided are multi body with the bottom layer text separated out to ease multi material printing.</p>
+<p>If you want the absolute best results for your bottom layer text, you will want to make sure you meticulously carry out each of the following steps -</p>
+<ul>
+<li>A Textured PEI build plate is recommended for dual color bottom text  </li>
+<li>Make sure the build plate is absolutely clean and free of any grease or residue. If needed, wash the build plate in hot water using dish soap or any mild detergent. Then wipe dry thoroughly before use</li>
+<li>Set the first layer of your print to run slow (20-30 mm/s) in your slicer</li>
+<li>Watch the first layer go down to catch any issues before they get buried under the rest of the print</li>
+</ul>
+<p>You can also change filament midway though a print to create multi color Tracks, which add even more personality and flair to your Set! You can do this at any point in the print but if you do it after the bottom layers of the marble track have already been printed, then you can see the center of the Track in a highlight color like in the image below -</p>
+<p><img src="/img/FAB_IMAGES/stx_multicolor1.jpeg" style="width: 40vw; min-width: 100px;display: block; margin: auto;"></p>
+<p><em>Multi color Tracks - user submitted by qn</em></p>
+<hr />
+<h3 id="print-post-processing"><strong>Print Post Processing</strong></h3>
 <p>After you have finished 3D printing your parts, it is now time for post processing your prints and getting them ready for magnetization! It is recommended to post process large batches of parts at the same time.</p>
 <p>The first step will be the removal of supports (if you used them) We recommend a small flat head screwdriver for prying supports off from the magnet pockets, keyway slots and any other features that may have required support. With good support settings, this should be very easy to do, all the supported features being shallow pockets with ease of access for removal.</p>
 <p>After all supports have been removed, conduct a thorough visual inspection of the part making sure there are no stray blobs, strings, wisps or other artifacts that may affect the quality and reliability of the finished Track. Use your fingers or a small file and flush cutters to trim away any artifacts.</p>
 <p>If there is any elephants foot on the part, use a small flat file to file away the elephants foot, especially on the mating surfaces between Tracks. Failure to do this will result in Tracks becoming poorly aligned at connections causing marble jams.</p>
 <p>Take the time to make sure each part meets all the above criteria for accuracy and finish to ensure the most enjoyable playtime Stacking experience!</p>
+<hr />
+<h3 id="common-print-defects"><strong>Common Print Defects</strong></h3>
+<p>There are some common 3D printing artifacts or defects that can arise from issues with your printing setup. The most common ones that can affect TrackStacker are described below. If you are seeing any of these issues in your prints, starting points to resolve each issue are provided below!</p>
+<ul>
+<li>
+<h4 id="warping"><strong>Warping</strong></h4>
+</li>
+</ul>
+<p><img src="/img/FAB_IMAGES/stx_warping1.jpeg" style="width: 40vw; min-width: 100px;display: block; margin: auto;"></p>
+<p><em>Warping seen in blue and white Track. Red Track shows no visible warp (user submitted by qn)</em></p>
+<ul>
+<li>
+<h4 id="stringing"><strong>Stringing</strong></h4>
+</li>
+</ul>
+<p><img src="/img/FAB_IMAGES/stx_stringing.jpg" style="width: 40vw; min-width: 100px;display: block; margin: auto;"></p>
+<p><em>Stringing seen in this [LJ1] (user submitted by Akuna)</em></p>
+<ul>
+<li>
+<h4 id="elephants-foot"><strong>Elephant's Foot</strong></h4>
+</li>
+</ul>
 <hr />
 <h2 id="magnets"><strong>Magnets</strong></h2>
 <h3 id="sourcing-magnets"><strong>Sourcing Magnets</strong></h3>
