@@ -19,7 +19,11 @@ nav:
   - 'Fabrication!':
     - 'Fabrication Guide': 'fabrication.md'
   - 'Design Guide!':
-    - 'Design Guide': 'design.md'
+    - 'Design Guide': 'design/design.md'
+    - 'The Standard': 'design/standard.md'
+    - 'Mechanisms': 'design/mechanisms.md'
+    - 'Aesthetics': 'design/aesthetics.md'
+    - 'Principles': 'design/principles.md'
   - 'Changelog':
     - 'Changelog': 'changelog.md'
 

@@ -81,7 +81,6 @@ You can also change filament midway though a print to create multi color Tracks,
 
 *Multi color Tracks - user submitted by qn*
 
-
 ---
 
 ### **Print Post Processing**
@@ -162,8 +161,19 @@ There are broadly 4 different types of magnetization operations that you will ne
 
 - ### **Magnetic Spring Polarization**
 
+	Some Tracks like [IB2], [IB4] and [DB2] use a magnetic spring configuration where the force of repulsion between two magnets is used to create the necessary spring force for a Track to operate correctly. This principle is used to create the resetting spring force in each of the Button Tracks.
+
+	When magnetizing a Track with a magnetic spring in it, use the following procedure - 
+
+	- First insert the Board magnets normally as specified in the 'Board Magnet Polarization' section above.
+	- Then insert the single ⌀8mm ↧3mm magnet into the moving portion of the Track such that it **attracts** the magnets already in the fixed portion of the Track.
+	- Insert the sliding portion of the Track into the fixed portion and check if the detent is operating correctly.
+	- If the moving part reliably 'snaps' into each desired position then you know you have correctly magnetized the detent!
+
 
 - ### **Magnetic Detent Polarization**
+
+Some Tracks like [2T1] use a magnetic detent configuration where the force of attraction between two magnets to create the necessary indexing detent force. When magnetizing a Track with a magnetic spring in it, use the following procedure - 
 
 ---
 
@@ -241,5 +251,9 @@ Typically, all Tracks are designed to use M2 x 4mm Socket Head Cap Screws, but t
 In general it is recommended to keep a variety pack of M2 hardware around if you plan on fabricating a lot of Tracks or plan on designing your own!
 
 TrackStacker Labs uses stainless steel Socket Head Cap Screws for all in-house Track production.
+
+### **Tracks using non-standard hardware**
+
+- [CB] or Chaos Box requires M2x18mm long screws to securely screw into the body of the Chaos Box including a cover plate thickness of up to 2mm.
 
 ---
