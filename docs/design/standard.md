@@ -3,19 +3,27 @@ title: Design Guide
 description: 
 
 ---
-# **The Design Guide**
+# **TrackStacker Standard - Version 2.2.3**
 
-The Track Stacker Design Guide is a living document that captures the entire set of standards, technical information, drawings, hardware, processes, principles and logic that informs the design of every single Track, and considers the ways in which Tracks shall be combined for the best Stacking experience for the Player.
+The TrackStacker Standard is the most current set of technical specifications and dimensions that govern the creation of TrackStacker Track geometry. For a Track to be truly compatible and compliant with the TrackStacker ecosystem, it must follow all the guidelines laid out in The Standard.
 
-The Design Guide is broken up into sections that compartmentalize each aspect of Track Stacker’s fundamental standards with technical drawings, descriptions and context for each design choice. This is to provide contributors with as much context as possible to integrate new designs into the Track Stacker Cinematic Universe!
-
+In addition to these technical specifications, Tracks should be designed to conform to the Aesthetics and Principles of TrackStacker. 
 
 ## **The Magic Profile**
 
 The Profile of Track Stacker is the most fundamental design element in the system. The interface between every Track must match The Profile. The Profile describes the size and position of the Marble Track, Con Magnets, Key and outer profile.
 
+In general, many Track ideas start as Extrude or Sweep operations starting with The Magic Profile. It 
+
 The Magic Profile and its key dimensions are provided below -
 
+<img src="/img/STANDARDS/PROFILE.png" style="display: block; margin: auto;">
+
+---
+
+## **Magnet Polarization Standards**
+
+<img src="/img/STANDARDS/CON_MAG.png" style="display: block; margin: auto;">
 
 ---
 
@@ -23,9 +31,18 @@ The Magic Profile and its key dimensions are provided below -
 
 Each Track in the TrackStacker system will be designed to conform to a multiple of 10mm in length, as represented by the ↔ designator. This design constraint is to ensure that multiple Sub Stacks in parallel can be made to follow different routes, and then re-align at the end so the Sub Stacks may be merged.
 
+<img src="/img/STANDARDS/LENGTH.png" style="display: block; margin: auto;">
+
 ---
 
 ## **Multi Track Parts (X Axis)**
 
+<img src="/img/STANDARDS/ITD.png" style="display: block; margin: auto;">
+
+---
+
+## **Height Change Standard (Z Axis)**
+
+<img src="/img/STANDARDS/ZLIFT.png" style="display: block; margin: auto;">
 
 ---
