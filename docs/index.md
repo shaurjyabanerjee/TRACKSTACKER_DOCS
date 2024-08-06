@@ -18,7 +18,7 @@ You can then use [The Fabrication Guide](/fabrication) to learn how to setup and
 
 ---
 
-### **How to use The Documentation -**
+### **How to use The Docs -**
 
 The TrackStacker Documentation is organized into four broad categories to make sure you have access to all the information you need, sorted to keep it from getting overwhelming. The entire TrackStacker Documentation website is text searchable, and you can use the search bar in the top right to find any particular topic you may be interested in.
 

@@ -9,13 +9,19 @@ nav:
     - '<45 Family': 'tracks/45.md'
     - '<30 Family': 'tracks/30.md'
     - 'J60': 'tracks/J60.md'
-    - 'J90': 'tracks/J90.md'
     - 'Merge/Diverge': 'tracks/MD.md'
     - 'LoveJoy': 'tracks/LJ.md'
     - '2 to 1': 'tracks/2T1.md'
     - 'Inline Buttons': 'tracks/IB.md'
     - 'Double Button': 'tracks/DB.md'
     - 'Inline Valve': 'tracks/IVM.md'
+  - 'Kits!':
+    - 'KitLibrary Home': 'kits/kits.md'
+    - 'Starter Kit': 'kits/starter_kit.md'
+    - 'Z Expansion Kit': 'kits/z_kit.md'
+    - 'Buttons Kit': 'kits/button_kit.md'
+    - 'Print-It-Yourself Kit': 'kits/print_kit.md'
+    - 'Marble Pump Kit': 'kits/pump_kit.md'
   - 'Fabrication!':
     - 'Fabrication Guide': 'fabrication.md'
   - 'Design Guide!':
