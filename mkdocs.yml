@@ -15,6 +15,8 @@ nav:
     - 'Inline Buttons': 'tracks/IB.md'
     - 'Double Button': 'tracks/DB.md'
     - 'Inline Valve': 'tracks/IVM.md'
+    - 'Keys': 'tracks/K.md'
+    - 'Marble Pump': 'tracks/MP.md'
   - 'Kits!':
     - 'KitLibrary Home': 'kits/kits.md'
     - 'Starter Kit': 'kits/starter_kit.md'
@@ -23,7 +25,13 @@ nav:
     - 'Print-It-Yourself Kit': 'kits/print_kit.md'
     - 'Marble Pump Kit': 'kits/pump_kit.md'
   - 'Fabrication!':
-    - 'Fabrication Guide': 'fabrication.md'
+    - 'Fabrication Guide': 'fab/fabrication.md'
+    - 'Materials': 'fab/materials.md'
+    - '3D Printing': 'fab/3dprint.md'
+    - 'Magnetization': 'fab/magnetize.md'
+    - 'Cover Plates': 'fab/coverplates.md'
+    - 'Hardware': 'fab/hardware.md'
+    - 'Bill of Materials': 'fab/bom.md'
   - 'Design Guide!':
     - 'Design Guide': 'design/design.md'
     - 'The Standard': 'design/standard.md'

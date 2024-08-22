@@ -13,8 +13,6 @@ The Marble Pump is fully reversible, and can pump marbles in either direction. T
 
 <img src="/img/TRACKS/stx-starterkit2.jpg" style="display: block; margin: auto;">
 
-
-
 ---
 
 ## **Track List**
@@ -34,7 +32,7 @@ The Marble Pump Kit comes with one pump, and all the accessories you need to get
 
 Marble Pump Rates (Marbles/minute) : 	
 - 8.3M/m (5V) 
-- 15.0M/m (9V) 
+- 15.0M/m (9V)  
 - 20M/m (12V) 
 - 25M/m (15V)
 - 33.3M/m (20V)
