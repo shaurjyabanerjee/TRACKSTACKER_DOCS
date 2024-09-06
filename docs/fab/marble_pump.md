@@ -56,7 +56,10 @@ The Marble Pump 1.0 is finally here,
 
 ## **Wiring Diagram**
 
-Wire the USB C PD Trigger board, toggle switch and DC motor as shown in the wiring diagram below. It
+Wire the USB C PD Trigger board, toggle switch and DC motor as shown in the wiring diagram below.
+
+<img src="/img/FAB_DOCS/motor_wiring_diagram_rev1.jpg" style="width: 40vw; min-width: 100px;display: block; margin: auto;">
+
 
 ---
 
