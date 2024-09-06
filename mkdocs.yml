@@ -31,7 +31,7 @@ nav:
     - 'Magnetization': 'fab/magnetize.md'
     - 'Cover Plates': 'fab/coverplates.md'
     - 'Hardware': 'fab/hardware.md'
-    - 'Bill of Materials': 'fab/bom.md'
+    - 'Marble Pump Kit': 'fab/marble_pump.md'
   - 'Design Guide!':
     - 'Design Guide': 'design/design.md'
     - 'The Standard': 'design/standard.md'
