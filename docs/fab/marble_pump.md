@@ -116,6 +116,8 @@ Unlike most other Tracks, The Marble Pump needs very particular settings in orde
 ---
 
 ## **Wiring**
+
+### **Preparation**
 Before beginnning the wiring of you Marble Pump, you will need to do a few steps of preparation. The USB C PD Trigger board rests directly on the back of the DC Motor gearbox, and so the motor needs a layer of insulating Kapton tape to insulate it from the USB C Trigger PCB. Make sure to cover the entire back of the gearbox with Kapton tape as shown in the image on the left below. 
 
 <div style="display: flex; justify-content: center; gap: 2vw;">
@@ -127,12 +129,13 @@ Once your motor body is insulated, go ahead and cut a piece of wire 200mm long, 
 
 Now its time to do a similar prep process for the wires on the USB Type C Trigger PCB. Cut another piece of wire 200mm in length and strip both the red and black sides by 3.5mm. If you are using zip cord, split the wires 40mm. Tin the stripped ends of the wire, as well as the + and - terminals on your USB C PD Trigger PCB. Solder the red wire to the terminal labelled "+" and solder the black wire to the terminal labelled "-" on the PCB. When you are finished it should like the PCBs in the image above and right.
 
-
-
-Wire the USB C PD Trigger board, toggle switch and DC motor as shown in the wiring diagram below.
+### **Wiring the H-Bridge**
+Wire the USB C PD Trigger board, toggle switch and DC motor as shown in the wiring diagram below. You will need two resistor legs to wire the crossed legs of the H-Bridge.
 
 <img src="/img/FAB_DOCS/motor_wiring_diagram_rev1.jpg" style="width: 40vw; min-width: 100px;display: block; margin: auto;">
 
+
+A finished batch of Marble Pumps waiting to have their Backs screwed on
 <img src="/img/PUMP_IMAGES/pump_wiring1.jpg" style="width: 50vw; min-width: 100px;display: block; margin: auto;">
 
 
