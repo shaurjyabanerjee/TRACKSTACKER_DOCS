@@ -1,5 +1,5 @@
 ---
-title: Design Guide
+title: Aesthetics Guide
 description: 
 
 ---
