@@ -109,6 +109,7 @@ Unlike most other Tracks, The Marble Pump needs very particular settings in orde
 2. The Pump Wheel (if you are printing it) needs to be sliced for maximum strength and durability. 
 
 ### **Supports**
+I reccomend printing your Pump Body with Normal supports in snug mode, with a threshold angle of 40 degrees. Slicers these days are capable of generating generally very easy to remove support material, but your milage may vary based on the specific filament that you are using.
 
 <div style="display: flex; justify-content: center; gap: 2vw;">
   <img src="/img/PUMP_IMAGES/pump_support1.png" style="width: 45vw; min-width: 100px;">
@@ -117,6 +118,23 @@ Unlike most other Tracks, The Marble Pump needs very particular settings in orde
 
 *This is what your supports should look like in your slicer. Support material shown in green.*
 
+This is what a properly supported Pump body actually should look like - as you can see in the images below, my support settings are tuned so nicely that the whole block of supports stayed attached to the build plate while the part released effortlessly. This Pump Body has been printed in Plum BambuLab PLA Matte, and turned out with a lovely surface finish and clean support removal without much fuss.
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 2vw; flex-wrap: wrap;">
+  <img src="/img/PUMP_IMAGES/pump_print3.jpg" style="max-width: 25.5vw; min-width: 100px; height: auto;">
+  <img src="/img/PUMP_IMAGES/pump_print4.jpg" style="max-width: 45vw; min-width: 100px; height: auto;">
+</div>
+
+*(Left) - freshly printed Pump Body (Right) - Pump Body cloeanly released from the build plate leaving only support material behind*
+
+
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 2vw; flex-wrap: wrap;">
+  <img src="/img/PUMP_IMAGES/pump_print5.jpg" style="max-width: 25vw; min-width: 100px; height: auto;">
+  <img src="/img/PUMP_IMAGES/pump_print6.jpg" style="max-width: 25vw; min-width: 100px; height: auto;">
+</div>
+
+*(Left) - support material only for inside of Pump Body (Right) - internal motor mount surface, after support removal*
 
 ---
 
