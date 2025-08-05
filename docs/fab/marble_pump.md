@@ -7,7 +7,7 @@ description:
 
 ## **Introduction**
 
-The Marble Pump 3.0 is finally here, with numerous design improvements and refinements to make this the very best TrackStacker Marble Pump till date! If you want to build a Marble Pump for yourself, please make sure to thoroughly read the information on this page and please do not hesitate to ask any questions you may have in the TrackStacker Discord community. The Marble Pump is certainly the most challenging Track to fabricate till date, and has many assembly steps including soldering and wiring. It will be beneficial to have already 
+The Marble Pump 3.0 is finally here, with numerous design improvements and refinements to make this the very best TrackStacker Marble Pump till date! If you want to build a Marble Pump for yourself, please make sure to thoroughly read the information on this page and please do not hesitate to ask any questions you may have in the TrackStacker Discord community. The Marble Pump is certainly the most challenging Track to fabricate till date, and has many assembly steps including soldering and wiring. It will be beneficial to have already fabricated a few other Tracks before embarking on a Marble Pump build - being familiar with TrackStacker magnetic polarization standards is helpful for this build.
 
 
 <img src="/img/PUMP_IMAGES/pump_kit.jpg" style="width: 100vw; min-width: 100px;display: block; margin: auto;">
@@ -54,9 +54,7 @@ The Marble Pump 3.0 is finally here, with numerous design improvements and refin
 
 - #### **1x** **Pump Body - Printed in PLA**
 
-	
 - #### **1x** **Ramp Spacer - Printed in Polycarbonate**
-
 
 - #### **1x** **Pump Back - Printed in PLA**
 
@@ -75,8 +73,8 @@ All Marble Pumps made and sold by TrackStacker Labs use an aluminum Pump Wheel l
 	Please be warned however that using a 3D-printed Pump Wheel will result in a Pump with much reduced durability and as such the maximum reccomended height of lift will be reduced by about 30% compared to metal pump wheels. I have experimented heavily with different types of material and print settings, all of which have failed to provide a Pump Wheel adequately strong to meet the design standards of the Marble Pump. If you MUST print a Pump Wheel, please do so in Polycarbonate filament with maximum walls.
 
 <div style="display: flex; justify-content: center; gap: 2vw;">
-  <img src="/img/PUMP_IMAGES/pump_broken_wheel1.jpg" style="width: 33vw; min-width: 100px;">
-  <img src="/img/PUMP_IMAGES/pump_broken_wheel2.jpg" style="width: 33vw; min-width: 100px;">
+  <img src="/img/PUMP_IMAGES/pump_broken_wheel1.jpg" style="width: 45vw; min-width: 100px;">
+  <img src="/img/PUMP_IMAGES/pump_broken_wheel2.jpg" style="width: 45vw; min-width: 100px;">
 </div>
 
 Shown above is my most durable Polycarbonate Pump Wheel till date, which ultimately fractured along the D shaft after a hundred or so lifting hours of testing.
@@ -95,7 +93,12 @@ The Cover Plate for the Marble Pump should ideally be made out of laser cut 3mm 
 
 However, if you do not have access to a laser cutter, you can 3D print a Cover Plate for your Pump using PETG or Polycarbonate. Shown below is a 3D printed Cover Plate in PC with gyroid infill and no top layers. This allows you to somewhat makeout the movement of marbles within the Pump, and gives a cool finish.
 
-<img src="/img/PUMP_IMAGES/pump_gyroid_cover_plate.jpg" style="width: 50vw; min-width: 100px;display: block; margin: auto;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 2vw; flex-wrap: wrap;">
+  <img src="/img/PUMP_IMAGES/pump_clear_plate.jpg" style="max-width: 25vw; min-width: 100px; height: auto;">
+  <img src="/img/PUMP_IMAGES/pump_gyroid_cover_plate.jpg" style="max-width: 45vw; min-width: 100px; height: auto;">
+</div>
+
+*(Left) - clear, laser cut 3mm acrylic cover plate (Right) - 3D printed gyroid cover plate in Polycarbonate*
 
 ---
 
@@ -104,6 +107,16 @@ Unlike most other Tracks, The Marble Pump needs very particular settings in orde
 
 1. The Pump Body needs quite a lot of support in order to print correctly.
 2. The Pump Wheel (if you are printing it) needs to be sliced for maximum strength and durability. 
+
+### **Supports**
+
+<div style="display: flex; justify-content: center; gap: 2vw;">
+  <img src="/img/PUMP_IMAGES/pump_support1.png" style="width: 45vw; min-width: 100px;">
+  <img src="/img/PUMP_IMAGES/pump_support2.png" style="width: 45vw; min-width: 100px;">
+</div>
+
+*This is what your supports should look like in your slicer. Support material shown in green.*
+
 
 ---
 
@@ -121,8 +134,8 @@ Unlike most other Tracks, The Marble Pump needs very particular settings in orde
 Before beginnning the wiring of you Marble Pump, you will need to do a few steps of preparation. The USB C PD Trigger board rests directly on the back of the DC Motor gearbox, and so the motor needs a layer of insulating Kapton tape to insulate it from the USB C Trigger PCB. Make sure to cover the entire back of the gearbox with Kapton tape as shown in the image on the left below. 
 
 <div style="display: flex; justify-content: center; gap: 2vw;">
-  <img src="/img/PUMP_IMAGES/pump_motor_insulation.jpg" style="width: 33vw; min-width: 100px;">
-  <img src="/img/PUMP_IMAGES/pump_wire_prep.jpg" style="width: 33vw; min-width: 100px;">
+  <img src="/img/PUMP_IMAGES/pump_motor_insulation.jpg" style="width: 45vw; min-width: 100px;">
+  <img src="/img/PUMP_IMAGES/pump_wire_prep.jpg" style="width: 45vw; min-width: 100px;">
 </div>
 
 Once your motor body is insulated, go ahead and cut a piece of wire 200mm long, and strip both the red and black sides by 10mm. If you are using zip cord, split the wires 50mm. Then cut two 15mm lengths of heatshrink with an ID ~2.5mm and slip over each end BEFORE soldering them to the motor terminals. Solder the red wire to the terminal labelled "+" and solder the black wire to the terminal labelled "-" on the motor. After you are done soldering the motor wires on, heat the heatshrink tubing with a heat gun to shrink it down over the solder joint. When you are finished it should look like the motors in the image above and right. 
