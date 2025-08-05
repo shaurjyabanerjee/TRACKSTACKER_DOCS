@@ -115,7 +115,19 @@ Unlike most other Tracks, The Marble Pump needs very particular settings in orde
 
 ---
 
-## **Wiring Diagram**
+## **Wiring**
+Before beginnning the wiring of you Marble Pump, you will need to do a few steps of preparation. The USB C PD Trigger board rests directly on the back of the DC Motor gearbox, and so the motor needs a layer of insulating Kapton tape to insulate it from the USB C Trigger PCB. Make sure to cover the entire back of the gearbox with Kapton tape as shown in the image on the left below. 
+
+<div style="display: flex; justify-content: center; gap: 2vw;">
+  <img src="/img/PUMP_IMAGES/pump_motor_insulation.jpg" style="width: 33vw; min-width: 100px;">
+  <img src="/img/PUMP_IMAGES/pump_wire_prep.jpg" style="width: 33vw; min-width: 100px;">
+</div>
+
+Once your motor body is insulated, go ahead and cut a piece of wire 200mm long, and strip both the red and black sides by 10mm. If you are using zip cord, split the wires 50mm. Then cut two 15mm lengths of heatshrink with an ID ~2.5mm and slip over each end BEFORE soldering them to the motor terminals. Solder the red wire to the terminal labelled "+" and solder the black wire to the terminal labelled "-" on the motor. After you are done soldering the motor wires on, heat the heatshrink tubing with a heat gun to shrink it down over the solder joint. When you are finished it should look like the motors in the image above and right. 
+
+Now its time to do a similar prep process for the wires on the USB Type C Trigger PCB. Cut another piece of wire 200mm in length and strip both the red and black sides by 3.5mm. If you are using zip cord, split the wires 40mm. Tin the stripped ends of the wire, as well as the + and - terminals on your USB C PD Trigger PCB. Solder the red wire to the terminal labelled "+" and solder the black wire to the terminal labelled "-" on the PCB. When you are finished it should like the PCBs in the image above and right.
+
+
 
 Wire the USB C PD Trigger board, toggle switch and DC motor as shown in the wiring diagram below.
 
@@ -123,17 +135,11 @@ Wire the USB C PD Trigger board, toggle switch and DC motor as shown in the wiri
 
 <img src="/img/PUMP_IMAGES/pump_wiring1.jpg" style="width: 50vw; min-width: 100px;display: block; margin: auto;">
 
-<img src="/img/PUMP_IMAGES/pump_wire_prep.jpg" style="width: 50vw; min-width: 100px;display: block; margin: auto;">
-
 
 
 ---
 
 ## **Final Assembly**
-
----
-
-## **Testing**
 
 
 ---
