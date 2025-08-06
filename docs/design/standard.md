@@ -1,5 +1,5 @@
 ---
-title: Design Guide
+title: The Standard
 description: 
 
 ---
@@ -13,9 +13,7 @@ In addition to these technical specifications, Tracks should be designed to conf
 
 The Profile of Track Stacker is the most fundamental design element in the system. The interface between every Track must match The Profile. The Profile describes the size and position of the Marble Track, Con Magnets, Key and outer profile.
 
-In general, many Track ideas start as Extrude or Sweep operations starting with The Magic Profile. It 
-
-The Magic Profile and its key dimensions are provided below -
+In general, many Track ideas start as Extrude or Sweep operations starting with The Magic Profile. The Magic Profile and its key dimensions are provided below -
 
 <img src="/img/STANDARDS/PROFILE.png" style="display: block; margin: auto;">
 
@@ -23,7 +21,17 @@ The Magic Profile and its key dimensions are provided below -
 
 ## **Magnet Polarization Standards**
 
+Properly polarizing your Tracks is absolutley essential for an immidiate, fun and smooth Stacking experience!
+
 <img src="/img/STANDARDS/CON_MAG.png" style="display: block; margin: auto;">
+
+---
+
+## **Z Support Polarization Standards**
+
+Z Supports shall be polarized as shown in the image below. The wide side is intended to attract the Ø8mm ↧3mm Board Magnets installed on the bottom surface of all Tracks. Z Supports are polarized so that they may be Stacked additively. For example - A [ZS1] and [ZS2] Stacked on top of each other creates the equivalent height of a [ZS3] support.
+
+<img src="/img/STANDARDS/ZS_MAG.png" style="display: block; margin: auto;">
 
 ---
 
